@@ -1,0 +1,31 @@
+Fix the blue box sizing the same as the green box must also adapt to window size
+https://appbrewery.github.io/flexbox-sizing-exercise/
+
+My putcome in ---> image.png
+
+.container {
+display: flex;
+turns the ,container into a flex container allowing its children to be 
+laid in a row
+
+justify-content: space-between; Puts space between the children evenly
+}
+
+.item1 {
+    max-width: 200px;
+    the box can grow but not larger than 200px
+    flex: 1 1 0;  short for
+    flex-grow; 1; Can grow in available space
+    flex-shrink: 1; Can shrink when needed
+    flex-basis: 0; Starts with 0 width before growing
+All this means the .item class can shrink with the min length of the 
+largest word and can grow but it is capped at 200 px
+}
+
+.item2 {
+    is on a fixed width of 200px and cannot grow or shrink
+}
+
+.item3 {
+    is also in a fixed position of 400px and cannot grow or shrink
+}

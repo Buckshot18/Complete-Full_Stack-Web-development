@@ -1,0 +1,7 @@
+Get the froggys home with Flexbox rules
+https://appbrewery.github.io/flexboxfroggy/
+
+Flexbox layout guide
+https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+
+I used Flexbox properties to adjusted containers or items to a desired layout
