@@ -1,7 +1,7 @@
 Fix the blue box sizing the same as the green box must also adapt to window size
 https://appbrewery.github.io/flexbox-sizing-exercise/
 
-My putcome in ---> image.png
+My outcome in ---> image.png
 
 .container {
 display: flex;
