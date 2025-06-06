@@ -1,0 +1,13 @@
+used index.html to complete the test.
+
+.grid-container {
+display: grid; ---> apply grid view
+grid-template-columns: auto 400px minmax(200px,500px);
+    ---> "auto" 1st column to adjust to the maximum 100% of the window size available
+    ---> "400px" 2nd fixed column set with only 400px
+    ---> "minmax" 3rd column set to the min shrink size of 200 px and the max stretch is set to 500px
+grid-template-rows: repeat(2 1fr) 2fr 50px;
+    ---> "repeat(2 1fr)" repeat the first 2 rows to be the same 1fr in size
+    ---> "2fr" 3rd row is a fixed 2fr
+    ---> last single row is just set to 50px in height 
+}
