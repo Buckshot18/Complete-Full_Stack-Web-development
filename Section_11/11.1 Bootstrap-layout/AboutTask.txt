@@ -1,0 +1,5 @@
+Completed task here.
+https://appbrewery.github.io/bootstrap-layout/
+
+Using the 12 column system to adjust layouts in a specific manner 
+according to screen sizes.
