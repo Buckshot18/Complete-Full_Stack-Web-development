@@ -1,0 +1,6 @@
+Used allot of bootstraps components from https://getbootstrap.com/
+
+Also was a exposure of how easy a frontend development can be 
+by just using templates that is provided in the bootstrap docs
+
+Preview index.htl to view the final project
