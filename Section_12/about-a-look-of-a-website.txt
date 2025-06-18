@@ -1,0 +1,39 @@
+12.0 
+This is the old website of penny juice where people would pay maybe $1 for a 
+juice box.
+https://www.pennyjuice.com/
+
+This is a newer reworked website that looks better on the eye and people 
+dont mind to pay $3 or $4 for a juice box.
+https://www.behance.net/gallery/40393701/Penny-Juice-Rebrand
+
+12.1 Colour theory
+https://colorhunt.co/
+https://color.adobe.com/create/color-wheel
+Colour can have a meaning which is why red for instance is meant for love care or anything with a deep felling
+and maybe royal blue means rich, money, expensive.
+
+12.2 Typography
+Choosing font more aggressive font wont work for a baby product website but 
+rather for a scary movie trailer
+
+12.3 User interface design
+A good layout keeps readers eyes locked in if tis comfortable if for instance 
+it was in a very small box where 400 characters is sqeuzed in people will not read it
+
+alignment of text, pictures or box content alignments also helps with a good 
+layout if you have 2 column views and everything is alligned center text will 
+look all over the place and will make it hard to keep track of where as you can 
+rather align them from left to right keeping content more in their own column 
+starting to read from the left.
+
+12.4 User Experience design
+What is UX
+user Experience is how a user finds to move around on a website for example if you have 3 pages and on every page the search button is on a different place that is a bad user experience.
+Is it easy to read and find what youre looking for or do they need to take a minute to find a topping in a bloated page of content.
+Also UX is not limited for only desktop web developers they need to keep in mind to make it functional on any size device.
+
+12.5
+https://www.canva.com/
+Create a UI website for a hotel.
+I did not do this to save time I have worked with Canva before this is nothing new for me.
