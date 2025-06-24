@@ -1,3 +1,7 @@
 {
-  "editor.rulers": [72, 79]
+  "editor.rulers": [
+    72,
+    79
+  ],
+  "livePreview.defaultPreviewPath": "/Section_13/index.html"
 }
